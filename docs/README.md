@@ -1,6 +1,11 @@
+---
+title: 简介
+---
 # Starlight Docs
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+
+这是一个astro的文档模板！
 
 This directory contains the Starlight documentation website (built with Starlight!)
 
